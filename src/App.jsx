@@ -6,7 +6,7 @@ import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import Qualification from './components/Qualification/Qualification';
 import Skill from './components/Skills/Skill';
-import Scrolltop from './components/Scrolltop/Scrolltop';
+import Scrolltop from './components/ScrollTop/Scrolltop';
 function App() {
 
     return (
